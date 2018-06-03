@@ -15,8 +15,11 @@
     "cors": "^2.8.4",
     "eslint": "^4.19.1",
     "express": "^4.16.3",
+    "joi": "^13.3.0",
     "morgan": "^1.9.0",
-    "nodemon": "^1.17.5"
+    "nodemon": "^1.17.5",
+    "pg": "^7.4.3",
+    "sequelize": "^4.37.10"
   },
   "devDependencies": {
     "eslint-config-standard": "^11.0.0",
